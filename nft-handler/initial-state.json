@@ -1,0 +1,12 @@
+{
+  "status": "hungry",
+  "mood": {
+    "hunger": 8
+  },
+  "assets": {
+    "sleeping": "http://localhost:1984/AjbYFBoGJZl7FwZFufYy8fN8LBJamkO7hJG1DyWiczM",
+    "bored": "http://localhost:1984/As1ZesF12RSeSw7u-ajeSO8VSSZWZMS5q1SIueKgeZI",
+    "happy": "http://localhost:1984/r4EWHRrzhMKVkfqsMEcu15JVz00B_NWOh4EK-3QgQwM",
+    "hungry": "http://localhost:1984/W5DQX5cEu_ZFkCPRmXPybr8ULuCkebEksGrXbQSbIGI"
+  }
+}
